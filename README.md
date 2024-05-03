@@ -11,3 +11,6 @@ Execução da Imagem
 ```
 docker run leoberbert/fullcycle:latest
 ```
+Link do Docker Hub:
+
+https://hub.docker.com/repository/docker/leoberbert/fullcycle
